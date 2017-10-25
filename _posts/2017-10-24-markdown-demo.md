@@ -3,7 +3,7 @@ layout:     post
 title:      Markdown Demo
 subtitle:   markdown demo
 date:       2017-10-24 21:37:08 +0800
-author:     BY
+author:     Figer
 header-img: img/post/markdown-demo/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
