@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title: jekyll git pages参考
 date:  2017-10-14 18:50:08 +0800
+header-img: img/post/bio-java-senior-programmer-of-figer/rainbow-cool-backgrounds.jpg
 tags:
     - jekyll
 ---
